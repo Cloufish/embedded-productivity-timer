@@ -1,6 +1,7 @@
 # Embedded Productivity Timer
 - **Not a Pomodoro**
 	- Instead, it uses "Third Time"/"Rational Breaks". See [Third Time: a better way to work ~ bfinn](https://www.lesswrong.com/posts/RWu8eZqbwgB9zaerh/third-time-a-better-way-to-work)
+	- Although It still can be used as Pomodoro. You just need to stop the timer earlier
 ## Concept of Third Time
 1. **Work for as long or as short as you like** until you want a break
 2. Break time is calculated to one-third (or any other *chosen* fraction) of work
