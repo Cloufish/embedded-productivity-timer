@@ -11,9 +11,9 @@
 
 ## settings.h
 - User can modify some variables
-	- FRACTION="1/3 | 1/4 | 1/5 | 1/6 |"
-	- VIBRATION-MODE="1|0"
-	- PRECISE-CLOCK="1|0"
+	- `FRACTION="1/3 | 1/4 | 1/5 | 1/6 |"`
+	- `VIBRATION-MODE="1|0"`
+	- `PRECISE-CLOCK="1|0"`
 
 ## The required gear to build this
 - Display (*e-ink recommended* for low power-usage)
