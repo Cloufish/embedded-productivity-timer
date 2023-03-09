@@ -9,6 +9,16 @@
 - If the user doesn't use whole break time, then user can resume work earlier and the remaining break time gets postponed to the next Break
 	- In the same way - If the user doesn't resume work after the break then additional "break debt" is added
 
+## My own added twists
+- After 30 minutes of work, stop displaying time on a display
+	- So that the timer could *still be used as a Pomodoro*
+	- *Always display break time*
+- Record each work session time in Hours.Minutes, with the time when the work started
+	- Later, you could import this list to Time-Management and track your time
+- If the `BREAK<=5min.` -> use buzzing/vibration
+- If the `BREAK>=5min.` -> use sound
+	- Only if `VIBRATION-MODE=0`
+
 ## settings.h
 - User can modify some variables
 	- FRACTION="1/3 | 1/4 | 1/5 | 1/6 |"
