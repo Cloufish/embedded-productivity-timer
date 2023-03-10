@@ -18,6 +18,9 @@
 - If the `BREAK<=5min.` -> use buzzing/vibration
 - If the `BREAK>=5min.` -> use sound
 	- Only if `VIBRATION-MODE=0`
+- If the `NEGATIVE BREAK` (that is being computed after the normal break) reaches 3minutes, then play sound until user presses button again
+- Have a button shine when it's break time
+- Dots on the LED Display should indicate battery remaining
 
 ## settings.h
 - User can modify some variables
