@@ -30,6 +30,8 @@
 	- `PRECISE-CLOCK="1|0"`
 
 ## The required gear to build this
-- Display (*e-ink recommended* for low power-usage)
-- Microcontroller
-	- TODO: Create tests for various architectures in a virtualized and CI/CD manner
+- I'll publish the saved shopping cart, but the **the total cost of parts should be 34$**
+	- ESP32 Based
+	- Cheap LED Display
+	- With rechargable battery
+	- and more parts
